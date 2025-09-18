@@ -1,0 +1,17 @@
+/* style.css */
+.navbar-custom {
+  background: linear-gradient(90deg, #4e54c8, #8f94fb); /* Purple-blue gradient */
+}
+
+.footer-custom {
+  background: #4e54c8;
+  color: white;
+}
+
+.btn-custom {
+  background-color: #8f94fb;
+  border: none;
+}
+.btn-custom:hover {
+  background-color: #4e54c8;
+}
